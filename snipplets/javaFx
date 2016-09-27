@@ -1,0 +1,1 @@
+{"tags":null,"nombre":"javaFx","snipplets":[{"contenido":" primaryStage.initStyle(StageStyle.UNDECORATED);","titulo":"sacar botones cerrar minimizar maximizar"}]}

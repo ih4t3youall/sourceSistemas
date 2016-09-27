@@ -1,0 +1,1 @@
+{"nombre":"github","snipplets":[{"titulo":"crear nuevo branch","contenido":"git checkout -b nombreRama"},{"titulo":"volver a la principal","contenido":"git checkout master\n"},{"titulo":"borrar la rama","contenido":"gi branch -d nombreRama"},{"titulo":"primer push a un branch","contenido":"git push -u origin nombreBranch"}],"tags":null}

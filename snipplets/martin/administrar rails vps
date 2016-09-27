@@ -1,0 +1,1 @@
+{"nombre":"administrar rails vps","tags":null,"snipplets":[{"titulo":"levantar server","contenido":"RAILS_ENV=production rails server --binding=93.188.167.193\nRAILS_ENV=development rails server --binding=93.188.167.193"},{"titulo":"compilar","contenido":"RAILS_ENV=development rake assets:precompile"},{"titulo":"url server","contenido":"93.188.167.193:3000"}]}

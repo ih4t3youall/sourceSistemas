@@ -1,0 +1,1 @@
+{"nombre":"rails","snipplets":[{"contenido":"$ rvm use ruby-2.3.1@rails5.0 --create\n$ gem install rails\n$ rails -v\n\n","titulo":"activar rails "},{"contenido":"rvm use ruby-2.3.1@rails5.0 --create","titulo":"levantar rails"}],"tags":null}

@@ -1,0 +1,1 @@
+{"nombre":"rake","snipplets":[{"contenido":"rake db:migrate","titulo":"crear database"},{"contenido":"rake db:reset","titulo":"resetear base de datos"}],"tags":null}

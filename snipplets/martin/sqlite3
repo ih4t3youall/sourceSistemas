@@ -1,0 +1,1 @@
+{"nombre":"sqlite3","snipplets":[{"contenido":"PRAGMA table_info([usuario]);\n\n","titulo":"describe"}],"tags":null}
